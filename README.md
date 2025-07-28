@@ -20,7 +20,7 @@ This project involved cleaning and transforming real-world Data Science job post
 /*
 
 
- Look at: SQLQuery2 - cafe sales.sql
+ Look at: SQL Query DS Jobs Glassdoor.sql
 
 */
 
