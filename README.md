@@ -18,7 +18,7 @@ This project involved cleaning and transforming real-world Data Science job post
 <h2>Program walk-through:</h2>
 
 
-```
+```sql
  /* 
 
 
